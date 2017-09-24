@@ -1,0 +1,20 @@
+// Initial vars for all objects
+whatToSay = "99";
+whatToSay2 = "99";
+whatToSay3 = "99";
+whatToSay4 = "99";
+whatToSay5 = "99";
+whatToSay6 = "99";
+whatToSay7 = "99";
+whatToSay8 = "99";
+whatToSay9 = "99";
+whatToSay10 = "99";
+whatToSay11 = "99";
+whatToSayNo = "99";
+whatToSayYes = "99";
+whatToSayAgain = "99";
+whatToSayAgain2 = "99";
+whatToSayAgain3 = "99";
+whatToSayAgain4 = "99";
+whatToSayFirst = "99";
+whatToSayNext = "99";
